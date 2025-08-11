@@ -305,40 +305,33 @@ done
 ## 📸 Results & Screenshots
 
 
-### Attack Timeline Dashboard
-![Attack Timeline](./screenshots/01-attack-timeline-dashboard.png)
-*Real-time visualization of security events over time, showing attack patterns and frequency*
-
 ### SQL Injection Detection
-![SQL Injection](./screenshots/02-sql-injection-alerts.png)
+![SQL Injection](https://github.com/AshutoshT07-cyber/wazuh-security-monitoring/blob/main/sql-injection-alerts.png.png?raw=true)
 *Detailed view of SQL injection attempts with rule correlation and severity analysis*
 
-### Security Events Overview
-![Security Overview](./screenshots/03-security-events-overview.png)
-*Comprehensive overview of all security events with filtering and search capabilities*
 
 ### Application Security Alerts
-![App Security](./screenshots/04-application-security-alerts.png)
+![App Security](https://github.com/AshutoshT07-cyber/wazuh-security-monitoring/blob/main/application-security-alerts.png.png?raw=true)
 *Application-specific security alerts focusing on web vulnerabilities*
 
-### SQL Injection Analysis
-![SQL Analysis](./screenshots/05-sql-injection-analysis.png)
+### Web Attack Alerts Discover 
+![SQL Analysis](https://github.com/AshutoshT07-cyber/wazuh-security-monitoring/blob/main/all-web-attack-alerts-discover-overview.png.png?raw=true)
 *Deep dive into SQL injection patterns and attack methodologies*
 
-### Attack Distribution Chart
-![Attack Distribution](./screenshots/06-attack-distribution-chart.png)
+### Attack Types Distribution Donut  Chart
+![Attack Distribution](https://github.com/AshutoshT07-cyber/wazuh-security-monitoring/blob/main/attack-types-distribution-donut-chart.png.png?raw=true)
 *Visual representation of different attack types and their distribution*
 
-### Security Metrics Visualization
-![Security Metrics](./screenshots/07-security-metrics-visualization.png)
+### Alert Severity Breakdown Bar Visualization
+![Security Metrics](https://github.com/AshutoshT07-cyber/wazuh-security-monitoring/blob/main/alert-severity-breakdown-bar-visualization.png.png?raw=true)
 *Advanced security metrics with trend analysis and forecasting*
 
-### Threat Severity Analysis
-![Threat Severity](./screenshots/08-threat-severity-analysis.png)
+### Attack Progression Funnel Area
+![Threat Severity](https://github.com/AshutoshT07-cyber/wazuh-security-monitoring/blob/main/attack-progression-funnel-area-view.png.png?raw=true)
 *Severity-based threat analysis with risk assessment metrics*
 
 ### Attack Volume Histogram
-![Attack Volume](./screenshots/09-attack-volume-histogram.png)
+![Attack Volume](https://github.com/AshutoshT07-cyber/wazuh-security-monitoring/blob/main/severity-based-attack-volume-histogram.png.png?raw=true)
 *Statistical analysis of attack volumes and patterns over time*
 
 ### Comprehensive Security Dashboard
