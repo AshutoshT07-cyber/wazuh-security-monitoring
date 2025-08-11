@@ -1,4 +1,4 @@
-🛡 Wazuh Security Monitoring Project
+ Wazuh Security Monitoring Project
 
 
 A comprehensive Security Information and Event Management (SIEM) solution built with Wazuh, featuring real-time monitoring, threat detection, and automated email alerting capabilities.
@@ -9,14 +9,14 @@ A comprehensive Security Information and Event Management (SIEM) solution built 
 
 This project demonstrates the implementation of a comprehensive Security Information and Event Management (SIEM) solution using **Wazuh** with real-time threat detection, automated email alerting, and advanced security analytics. The system monitors multiple attack vectors including SQL injection, brute force attacks, and suspicious file access patterns.
 
-### 🎖 Key Achievements
+###  Key Achievements
 -  **Real-time Security Monitoring** with 1000+ events processed
 -  **Automated Email Alert System** with custom SMTP configuration
 -  **Advanced Threat Detection** for SQL injection and privilege escalation
 -  **Interactive Security Dashboards** with visual analytics
 -  **Multi-vector Attack Analysis** across web applications and system logs
 
-## 🏗 Architecture
+##  Architecture
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
