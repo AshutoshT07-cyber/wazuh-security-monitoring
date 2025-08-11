@@ -339,7 +339,7 @@ done
 *Complete security operations center view with multiple visualization panels*
 
 Wazuh Email Notification Sample
-![Wazuh Email Alert - Successful Login Weekend]()
+![Wazuh Email Alert - Successful Login Weekend](https://github.com/AshutoshT07-cyber/wazuh-security-monitoring/blob/main/wazuh-email-alert-login.png.png?raw=true)
 
 ##  Troubleshooting
 
