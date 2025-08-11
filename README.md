@@ -338,7 +338,7 @@ done
 ![Comprehensive Dashboard](https://github.com/AshutoshT07-cyber/wazuh-security-monitoring/blob/main/comprehensive-security-dashboard.png.png?raw=true)
 *Complete security operations center view with multiple visualization panels*
 
-Wazuh Email Notification Sample
+## Wazuh Email Notification Sample
 ![Wazuh Email Alert - Successful Login Weekend](https://github.com/AshutoshT07-cyber/wazuh-security-monitoring/blob/main/wazuh-email-alert-login.png.png?raw=true)
 
 ##  Troubleshooting
