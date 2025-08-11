@@ -304,19 +304,6 @@ done
 
 ## 📸 Results & Screenshots
 
-### Image References
-| Image | Description | File Name |
-|-------|-------------|-----------|
-| 1 | Attack Timeline Dashboard | `01-attack-timeline-dashboard.png` |
-| 2 | SQL Injection Detection | `02-sql-injection-alerts.png` |
-| 3 | Security Events Overview | `03-security-events-overview.png` |
-| 4 | Application Security Alerts | `04-application-security-alerts.png` |
-| 5 | SQL Injection Analysis | `05-sql-injection-analysis.png` |
-| 6 | Attack Distribution Chart | `06-attack-distribution-chart.png` |
-| 7 | Security Metrics Visualization | `07-security-metrics-visualization.png` |
-| 8 | Threat Severity Analysis | `08-threat-severity-analysis.png` |
-| 9 | Attack Volume Histogram | `09-attack-volume-histogram.png` |
-| 10 | Comprehensive Security Dashboard | `10-comprehensive-security-dashboard.png` |
 
 ### Attack Timeline Dashboard
 ![Attack Timeline](./screenshots/01-attack-timeline-dashboard.png)
@@ -457,16 +444,7 @@ We welcome contributions to improve this security monitoring project:
 - Include test cases
 - Maintain backward compatibility
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact
-
-**Project Maintainer**: [Your Name]
-- **Email**: your.email@domain.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
 
 ## 🙏 Acknowledgments
 
