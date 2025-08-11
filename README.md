@@ -1,4 +1,5 @@
-🛡️ Wazuh Security Monitoring Project
+Wazuh Security Monitoring Project
+
 A comprehensive Security Information and Event Management (SIEM) solution built with Wazuh, featuring real-time monitoring, threat detection, and automated email alerting capabilities.
 
 🎯 Overview
