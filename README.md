@@ -1,22 +1,22 @@
-🛡️ Wazuh Security Monitoring Project
+🛡 Wazuh Security Monitoring Project
 
 
 A comprehensive Security Information and Event Management (SIEM) solution built with Wazuh, featuring real-time monitoring, threat detection, and automated email alerting capabilities.
 
 
 
-## 🎯 Overview
+##  Overview
 
 This project demonstrates the implementation of a comprehensive Security Information and Event Management (SIEM) solution using **Wazuh** with real-time threat detection, automated email alerting, and advanced security analytics. The system monitors multiple attack vectors including SQL injection, brute force attacks, and suspicious file access patterns.
 
-### 🎖️ Key Achievements
-- ✅ **Real-time Security Monitoring** with 1000+ events processed
-- ✅ **Automated Email Alert System** with custom SMTP configuration
-- ✅ **Advanced Threat Detection** for SQL injection and privilege escalation
-- ✅ **Interactive Security Dashboards** with visual analytics
-- ✅ **Multi-vector Attack Analysis** across web applications and system logs
+### 🎖 Key Achievements
+-  **Real-time Security Monitoring** with 1000+ events processed
+-  **Automated Email Alert System** with custom SMTP configuration
+-  **Advanced Threat Detection** for SQL injection and privilege escalation
+-  **Interactive Security Dashboards** with visual analytics
+-  **Multi-vector Attack Analysis** across web applications and system logs
 
-## 🏗️ Architecture
+## 🏗 Architecture
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
@@ -35,28 +35,28 @@ This project demonstrates the implementation of a comprehensive Security Informa
 └─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
 
-## ⭐ Features
+## Features
 
-### 🔍 Advanced Security Detection
+###  Advanced Security Detection
 - **SQL Injection Monitoring**: Real-time detection of SQL injection attempts
 - **Brute Force Protection**: Failed authentication tracking and alerting
 - **File Integrity Monitoring**: Suspicious file access and modification detection
 - **Privilege Escalation Detection**: Unauthorized access attempt monitoring
 - **Web Application Security**: HTTP request analysis and threat identification
 
-### 📊 Real-time Analytics
+###  Real-time Analytics
 - **Interactive Dashboards**: Custom security visualizations
 - **Attack Pattern Analysis**: Trending and correlation of security events
 - **Severity-based Filtering**: Critical, high, medium, and low priority events
 - **Time-series Analysis**: Historical attack pattern visualization
 
-### 🚨 Intelligent Alerting
+###  Intelligent Alerting
 - **Email Integration**: Automated SMTP notifications
 - **Severity-based Routing**: Critical alerts with immediate notification
 - **Custom Rule Engine**: Tailored detection rules for specific threats
 - **Alert Correlation**: Related event grouping and analysis
 
-## 🔧 Prerequisites
+##  Prerequisites
 
 ### System Requirements
 ```bash
@@ -82,7 +82,7 @@ This project demonstrates the implementation of a comprehensive Security Informa
 - PHP (for testing applications)
 ```
 
-## 🚀 Installation & Setup
+##  Installation & Setup
 
 ### Step 1: Environment Preparation
 ```bash
@@ -140,7 +140,7 @@ sudo systemctl enable wazuh-agent
 sudo systemctl start wazuh-agent
 ```
 
-## ⚙️ Configuration
+##  Configuration
 
 ### Email Alert Configuration
 ```xml
@@ -208,7 +208,7 @@ sudo systemctl start wazuh-agent
 </localfile>
 ```
 
-## 🔐 Security Monitoring
+##  Security Monitoring
 
 ### Attack Detection Capabilities
 
@@ -230,7 +230,7 @@ sudo systemctl start wazuh-agent
 - **Permission Tracking**: Unauthorized access detection
 - **System File Protection**: Regular system file monitoring
 
-## 📧 Alert Management
+##  Alert Management
 
 ### Email Alert System
 The project implements a sophisticated email alerting mechanism:
@@ -259,7 +259,7 @@ EMAIL_CONFIG = {
 | 7-9 | Medium | < 30 minutes | Email (batched) |
 | 3-6 | Low | Hourly digest | Email summary |
 
-## 📊 Dashboard Analytics
+##  Dashboard Analytics
 
 ### Key Performance Indicators
 - **Total Security Events**: 1000+ events processed
@@ -274,7 +274,7 @@ EMAIL_CONFIG = {
 4. **Geographic Threat Map**: Source IP geolocation
 5. **System Performance**: Resource utilization metrics
 
-## 🎯 Attack Scenarios Tested
+##  Attack Scenarios Tested
 
 ### 1. SQL Injection Campaign
 ```sql
@@ -302,7 +302,7 @@ done
 /home/user/.ssh/id_rsa
 ```
 
-## 📸 Results & Screenshots
+##  Results & Screenshots
 
 
 ### SQL Injection Detection
@@ -338,7 +338,7 @@ done
 ![Comprehensive Dashboard](https://github.com/AshutoshT07-cyber/wazuh-security-monitoring/blob/main/comprehensive-security-dashboard.png.png?raw=true)
 *Complete security operations center view with multiple visualization panels*
 
-## 🔧 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues & Solutions
 
@@ -377,7 +377,7 @@ docker-compose restart kibana
 # Clear browser cache and cookies
 ```
 
-## 💡 Best Practices
+##  Best Practices
 
 ### Security Hardening
 1. **Regular Updates**: Keep Wazuh components updated
@@ -393,24 +393,24 @@ docker-compose restart kibana
 4. **Network Optimization**: Minimize latency
 5. **Storage Management**: Implement log archiving
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 ### Planned Features
-- [ ] **Machine Learning Integration**: Anomaly detection algorithms
-- [ ] **Threat Intelligence Feeds**: External threat data integration
-- [ ] **Automated Response**: Incident response automation
-- [ ] **Mobile Dashboard**: iOS/Android monitoring app
-- [ ] **API Integration**: Third-party security tool integration
-- [ ] **Advanced Forensics**: Digital forensics capabilities
+-  **Machine Learning Integration**: Anomaly detection algorithms
+-  **Threat Intelligence Feeds**: External threat data integration
+-  **Automated Response**: Incident response automation
+-  **Mobile Dashboard**: iOS/Android monitoring app
+-  **API Integration**: Third-party security tool integration
+-  **Advanced Forensics**: Digital forensics capabilities
 
 ### Scalability Improvements
-- [ ] **Multi-node Deployment**: Distributed architecture
-- [ ] **Load Balancing**: High availability configuration
-- [ ] **Cloud Integration**: AWS/Azure deployment options
-- [ ] **Container Orchestration**: Kubernetes deployment
-- [ ] **Edge Computing**: IoT device monitoring
+-  **Multi-node Deployment**: Distributed architecture
+-  **Load Balancing**: High availability configuration
+-  **Cloud Integration**: AWS/Azure deployment options
+-  **Container Orchestration**: Kubernetes deployment
+-  **Edge Computing**: IoT device monitoring
 
-## 📈 Performance Metrics
+##  Performance Metrics
 
 ### System Performance
 | Metric | Value | Target |
@@ -421,7 +421,7 @@ docker-compose restart kibana
 | Storage Efficiency | 85% compression | 80% compression |
 | Uptime | 99.9% | 99% |
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions to improve this security monitoring project:
 
@@ -439,7 +439,7 @@ We welcome contributions to improve this security monitoring project:
 
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Wazuh Team** for the excellent SIEM platform
 - **Elastic Stack** for powerful data visualization
