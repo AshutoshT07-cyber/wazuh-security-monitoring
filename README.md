@@ -342,7 +342,7 @@ done
 *Statistical analysis of attack volumes and patterns over time*
 
 ### Comprehensive Security Dashboard
-![Comprehensive Dashboard](./screenshots/10-comprehensive-security-dashboard.png)
+![Comprehensive Dashboard](https://github.com/AshutoshT07-cyber/wazuh-security-monitoring/blob/main/comprehensive-security-dashboard.png.png?raw=true)
 *Complete security operations center view with multiple visualization panels*
 
 ## 🔧 Troubleshooting
