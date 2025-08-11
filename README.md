@@ -1,12 +1,29 @@
-Wazuh Security Monitoring Project
+# 🛡️ Wazuh Security Monitoring Project
 
-A comprehensive Security Information and Event Management (SIEM) solution built with Wazuh, featuring real-time monitoring, threat detection, and automated email alerting capabilities.
 
-🎯 Overview
+
+## 📋 Table of Contents
+- [Overview](#overview)
+- [Architecture](#architecture)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation & Setup](#installation--setup)
+- [Configuration](#configuration)
+- [Security Monitoring](#security-monitoring)
+- [Alert Management](#alert-management)
+- [Dashboard Analytics](#dashboard-analytics)
+- [Attack Scenarios Tested](#attack-scenarios-tested)
+- [Results & Screenshots](#results--screenshots)
+- [Troubleshooting](#troubleshooting)
+- [Best Practices](#best-practices)
+- [Future Enhancements](#future-enhancements)
+- [Contributing](#contributing)
+
+## 🎯 Overview
 
 This project demonstrates the implementation of a comprehensive Security Information and Event Management (SIEM) solution using **Wazuh** with real-time threat detection, automated email alerting, and advanced security analytics. The system monitors multiple attack vectors including SQL injection, brute force attacks, and suspicious file access patterns.
 
-###🎖️ Key Achievements
+### 🎖️ Key Achievements
 - ✅ **Real-time Security Monitoring** with 1000+ events processed
 - ✅ **Automated Email Alert System** with custom SMTP configuration
 - ✅ **Advanced Threat Detection** for SQL injection and privilege escalation
@@ -225,7 +242,7 @@ sudo systemctl start wazuh-agent
 - **Real-time Scanning**: Continuous file system monitoring
 - **Hash Verification**: SHA-256 checksums for critical files
 - **Permission Tracking**: Unauthorized access detection
-- **System File Protection**: Critical system file monitoring
+- **System File Protection**: Regular system file monitoring
 
 ## 📧 Alert Management
 
@@ -475,5 +492,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *This project demonstrates advanced security monitoring capabilities suitable for enterprise environments. It showcases proficiency in SIEM implementation, threat detection, and security operations center (SOC) management.*
-
-A comprehensive Security Information and Event Management (SIEM) solution built with Wazuh, featuring real-time monitoring, threat detection, and automated email alerting capabilities.
